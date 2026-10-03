@@ -7,7 +7,7 @@
             "id": "1486942645401026591"
         }
     ],
-    "main": "index.tsx",
+    "main": "file.js",
     "vendetta": {
         "icon": "FileIcon"
     }
