@@ -1,0 +1,14 @@
+{
+    "name": "FakeNitro",
+    "description": "Adds Discord Nitro features, to mobile users, not only vencord.",
+    "authors": [
+        {
+            "name": "mvrdis",
+            "id": "1486942645401026591"
+        }
+    ],
+    "main": "index.ts",
+    "vendetta": {
+        "icon": "FileIcon"
+    }
+}
